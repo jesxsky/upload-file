@@ -1,5 +1,5 @@
-# Bot Naga
-BOT WHATSAPP TERMUX BYE:DRAWL NAG
+# Bot UTMs
+BOT WHATSAPP TERMUX BYE:DENI
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Arya274/Arya-Bot
+> git clone https://github.com/jesxsky/upload-file
 > cd Arya-Bot
 > npm i
 > node index.js
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`NUROTOMO`](https://github.com/Nurotomo)
 
 ### SOSMED
-* Youtube: Drawl Nag
+* WA : 6282144323683
